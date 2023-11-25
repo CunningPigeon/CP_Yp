@@ -1,0 +1,8 @@
+D:\project\LB_6\LB_6_z3\LB_6_z3\obj\Debug\LB_6_z3.csproj.AssemblyReference.cache
+D:\project\LB_6\LB_6_z3\LB_6_z3\obj\Debug\LB_6_z3.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_6\LB_6_z3\LB_6_z3\obj\Debug\LB_6_z3.csproj.CoreCompileInputs.cache
+D:\project\LB_6\LB_6_z3\LB_6_z3\bin\Debug\LB_6_z3.exe.config
+D:\project\LB_6\LB_6_z3\LB_6_z3\bin\Debug\LB_6_z3.exe
+D:\project\LB_6\LB_6_z3\LB_6_z3\bin\Debug\LB_6_z3.pdb
+D:\project\LB_6\LB_6_z3\LB_6_z3\obj\Debug\LB_6_z3.exe
+D:\project\LB_6\LB_6_z3\LB_6_z3\obj\Debug\LB_6_z3.pdb

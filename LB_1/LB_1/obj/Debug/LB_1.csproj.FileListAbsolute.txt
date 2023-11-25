@@ -1,0 +1,8 @@
+D:\project\LB_1\LB_1\obj\Debug\LB_1.csproj.AssemblyReference.cache
+D:\project\LB_1\LB_1\obj\Debug\LB_1.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_1\LB_1\obj\Debug\LB_1.csproj.CoreCompileInputs.cache
+D:\project\LB_1\LB_1\bin\Debug\LB_1.exe.config
+D:\project\LB_1\LB_1\bin\Debug\LB_1.exe
+D:\project\LB_1\LB_1\bin\Debug\LB_1.pdb
+D:\project\LB_1\LB_1\obj\Debug\LB_1.exe
+D:\project\LB_1\LB_1\obj\Debug\LB_1.pdb

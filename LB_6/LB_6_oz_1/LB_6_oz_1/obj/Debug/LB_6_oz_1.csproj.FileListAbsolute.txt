@@ -1,0 +1,8 @@
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\bin\Debug\LB_6_oz_1.exe.config
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\bin\Debug\LB_6_oz_1.exe
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\bin\Debug\LB_6_oz_1.pdb
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\obj\Debug\LB_6_oz_1.csproj.AssemblyReference.cache
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\obj\Debug\LB_6_oz_1.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\obj\Debug\LB_6_oz_1.csproj.CoreCompileInputs.cache
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\obj\Debug\LB_6_oz_1.exe
+D:\project\LB_6\LB_6_oz_1\LB_6_oz_1\obj\Debug\LB_6_oz_1.pdb

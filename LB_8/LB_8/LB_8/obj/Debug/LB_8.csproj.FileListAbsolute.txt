@@ -1,0 +1,8 @@
+D:\project\LB_8\LB_8\LB_8\bin\Debug\LB_8.exe.config
+D:\project\LB_8\LB_8\LB_8\bin\Debug\LB_8.exe
+D:\project\LB_8\LB_8\LB_8\bin\Debug\LB_8.pdb
+D:\project\LB_8\LB_8\LB_8\obj\Debug\LB_8.csproj.AssemblyReference.cache
+D:\project\LB_8\LB_8\LB_8\obj\Debug\LB_8.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_8\LB_8\LB_8\obj\Debug\LB_8.csproj.CoreCompileInputs.cache
+D:\project\LB_8\LB_8\LB_8\obj\Debug\LB_8.exe
+D:\project\LB_8\LB_8\LB_8\obj\Debug\LB_8.pdb

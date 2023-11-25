@@ -1,0 +1,8 @@
+D:\project\LB_4\LB_4_z1\LB_4_z1\bin\Debug\LB_4_z1.exe.config
+D:\project\LB_4\LB_4_z1\LB_4_z1\bin\Debug\LB_4_z1.exe
+D:\project\LB_4\LB_4_z1\LB_4_z1\bin\Debug\LB_4_z1.pdb
+D:\project\LB_4\LB_4_z1\LB_4_z1\obj\Debug\LB_4_z1.csproj.AssemblyReference.cache
+D:\project\LB_4\LB_4_z1\LB_4_z1\obj\Debug\LB_4_z1.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_4\LB_4_z1\LB_4_z1\obj\Debug\LB_4_z1.csproj.CoreCompileInputs.cache
+D:\project\LB_4\LB_4_z1\LB_4_z1\obj\Debug\LB_4_z1.exe
+D:\project\LB_4\LB_4_z1\LB_4_z1\obj\Debug\LB_4_z1.pdb

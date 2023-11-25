@@ -1,0 +1,8 @@
+D:\project\LB_2\LB_2_z2\LB_2_z2\obj\Debug\LB_2_z2.csproj.AssemblyReference.cache
+D:\project\LB_2\LB_2_z2\LB_2_z2\obj\Debug\LB_2_z2.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_2\LB_2_z2\LB_2_z2\obj\Debug\LB_2_z2.csproj.CoreCompileInputs.cache
+D:\project\LB_2\LB_2_z2\LB_2_z2\bin\Debug\LB_2_z2.exe.config
+D:\project\LB_2\LB_2_z2\LB_2_z2\bin\Debug\LB_2_z2.exe
+D:\project\LB_2\LB_2_z2\LB_2_z2\bin\Debug\LB_2_z2.pdb
+D:\project\LB_2\LB_2_z2\LB_2_z2\obj\Debug\LB_2_z2.exe
+D:\project\LB_2\LB_2_z2\LB_2_z2\obj\Debug\LB_2_z2.pdb

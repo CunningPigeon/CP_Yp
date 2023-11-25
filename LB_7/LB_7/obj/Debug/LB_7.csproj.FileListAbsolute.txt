@@ -1,0 +1,8 @@
+D:\project\LB_7\LB_7\obj\Debug\LB_7.csproj.AssemblyReference.cache
+D:\project\LB_7\LB_7\obj\Debug\LB_7.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_7\LB_7\obj\Debug\LB_7.csproj.CoreCompileInputs.cache
+D:\project\LB_7\LB_7\bin\Debug\LB_7.exe.config
+D:\project\LB_7\LB_7\bin\Debug\LB_7.exe
+D:\project\LB_7\LB_7\bin\Debug\LB_7.pdb
+D:\project\LB_7\LB_7\obj\Debug\LB_7.exe
+D:\project\LB_7\LB_7\obj\Debug\LB_7.pdb

@@ -1,0 +1,8 @@
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\bin\Debug\LB_5_z1.1.exe.config
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\bin\Debug\LB_5_z1.1.exe
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\bin\Debug\LB_5_z1.1.pdb
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\obj\Debug\LB_5_z1.1.csproj.AssemblyReference.cache
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\obj\Debug\LB_5_z1.1.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\obj\Debug\LB_5_z1.1.csproj.CoreCompileInputs.cache
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\obj\Debug\LB_5_z1.1.exe
+D:\project\LB_5\LB_5_z1.1\LB_5_z1.1\obj\Debug\LB_5_z1.1.pdb
