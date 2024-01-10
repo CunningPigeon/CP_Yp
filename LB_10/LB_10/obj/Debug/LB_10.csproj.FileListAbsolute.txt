@@ -1,0 +1,8 @@
+D:\project\LB_10\LB_10\obj\Debug\LB_10.csproj.AssemblyReference.cache
+D:\project\LB_10\LB_10\obj\Debug\LB_10.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_10\LB_10\obj\Debug\LB_10.csproj.CoreCompileInputs.cache
+D:\project\LB_10\LB_10\bin\Debug\LB_10.exe.config
+D:\project\LB_10\LB_10\bin\Debug\LB_10.exe
+D:\project\LB_10\LB_10\bin\Debug\LB_10.pdb
+D:\project\LB_10\LB_10\obj\Debug\LB_10.exe
+D:\project\LB_10\LB_10\obj\Debug\LB_10.pdb

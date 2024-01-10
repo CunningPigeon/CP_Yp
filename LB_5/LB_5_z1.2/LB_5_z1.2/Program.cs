@@ -28,24 +28,70 @@ namespace LB_5_z1._2
 
             for (int i = 1; i < a.Length-1; ++i)
             {
-                if ((a[i] > a[i + 1]) && (a[i] > a[i - 1])) n++; // Нахождение групп
+                if ((a[i] > a[i + 1]) && (a[i] > a[i - 1]) || ((i == a.Length - 2) && (a[i] < a[i + 1]))) n++; // Нахождение групп
 
             }
             return n;
         }
 
-        static void DeleteGroup(int[] a)
+        static int[] DeleteGroup(int[] a)
         {
-            int n = 0;
-            while (n <= 2)
+            int beg = -1, end = -1;
+            for (int i = 1; i < a.Length - 1; ++i)
             {
-                for (int i = 1; i < a.Length - 1; ++i)
+                if (beg == -1)
                 {
-                    if ((a[i] > a[i + 1]) && (a[i] > a[i - 1])) n++; // Нахождение групп
+                    if (a[i] < a[i + 1])
+                    {
+                        beg = i;
+                        if ((a[i] > a[i - 1]) && (i == 1))
+                        {
+                            beg--;
+                        }
+                    }
+                }
+
+                if (end == -1)
+                {
+                    if (((a[i] > a[i + 1]) && (a[i] > a[i - 1]) )||((i == a.Length - 2) && (a[i] < a[i + 1])))
+                    {
+                        end = i;
+                        if ((i == a.Length - 2)&&(a[i] < a[i + 1])){
+                            end++;
+                        }
+                    }
+                }
+
+
+
+
 
                 }
+            Console.WriteLine("beg = {0} end = {1}", beg, end);
+            // Удаление элементов из массива
+            int newLength = 0;
+            int[] newArray = new int[a.Length];
+            int j = 0;
+            for (int i = 0; i < a.Length; i++)
+            {
+                if ((i < beg) || (i > end))
+                {
+                    newLength++;
+                    newArray[j] = a[i];
+                    j++;
+                }
+                
             }
-            
+            Array.Resize(ref newArray, newLength);
+            a = newArray;
+
+            for (int i = 0; i < newArray.Length; i++)
+            {
+                Console.WriteLine(newArray[i]);
+            }
+
+
+            return a;
         }
         static void Main(string[] args)
         {
@@ -53,9 +99,6 @@ namespace LB_5_z1._2
             Console.WriteLine("Кол-во групп =  {0}", Search(mass));
             
             DeleteGroup(mass);
-            Console.WriteLine("Удаление 1-ой группы =  {0}");
-
-
 
             Console.ReadKey();
 

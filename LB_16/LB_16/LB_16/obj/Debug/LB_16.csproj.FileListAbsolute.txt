@@ -1,0 +1,11 @@
+D:\project\LB_16\LB_16\LB_16\bin\Debug\LB_16.exe.config
+D:\project\LB_16\LB_16\LB_16\bin\Debug\LB_16.exe
+D:\project\LB_16\LB_16\LB_16\bin\Debug\LB_16.pdb
+D:\project\LB_16\LB_16\LB_16\bin\Debug\MyLibrary.dll
+D:\project\LB_16\LB_16\LB_16\bin\Debug\MyLibrary.pdb
+D:\project\LB_16\LB_16\LB_16\obj\Debug\LB_16.csproj.AssemblyReference.cache
+D:\project\LB_16\LB_16\LB_16\obj\Debug\LB_16.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_16\LB_16\LB_16\obj\Debug\LB_16.csproj.CoreCompileInputs.cache
+D:\project\LB_16\LB_16\LB_16\obj\Debug\LB_16.csproj.CopyComplete
+D:\project\LB_16\LB_16\LB_16\obj\Debug\LB_16.exe
+D:\project\LB_16\LB_16\LB_16\obj\Debug\LB_16.pdb
