@@ -1,0 +1,8 @@
+D:\project\LB_15\LB_15\LB_15\bin\Debug\LB_15.exe.config
+D:\project\LB_15\LB_15\LB_15\bin\Debug\LB_15.exe
+D:\project\LB_15\LB_15\LB_15\bin\Debug\LB_15.pdb
+D:\project\LB_15\LB_15\LB_15\obj\Debug\LB_15.csproj.AssemblyReference.cache
+D:\project\LB_15\LB_15\LB_15\obj\Debug\LB_15.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_15\LB_15\LB_15\obj\Debug\LB_15.csproj.CoreCompileInputs.cache
+D:\project\LB_15\LB_15\LB_15\obj\Debug\LB_15.exe
+D:\project\LB_15\LB_15\LB_15\obj\Debug\LB_15.pdb

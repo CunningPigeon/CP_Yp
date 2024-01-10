@@ -15,7 +15,7 @@ namespace LB_2_z2
             Console.Write(" y = ");
             double y = double.Parse(Console.ReadLine());
 
-            if ((x < 0 && y < 0) || (x * x + y * y > 1)) // Проверка на непринадлежность
+            if ((x < 0 && y < 0)|| (x * x + y * y > 1)) // Проверка на непринадлежность || (x > 0 && y > 0) 
             { 
                 Console.WriteLine("Нет");
             }

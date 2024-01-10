@@ -1,0 +1,16 @@
+D:\project\LB_12\LB_12\bin\Debug\LB_12.exe.config
+D:\project\LB_12\LB_12\bin\Debug\LB_12.exe
+D:\project\LB_12\LB_12\bin\Debug\LB_12.pdb
+D:\project\LB_12\LB_12\obj\Debug\LB_12.csproj.AssemblyReference.cache
+D:\project\LB_12\LB_12\obj\Debug\LB_12.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_12\LB_12\obj\Debug\LB_12.csproj.CoreCompileInputs.cache
+D:\project\LB_12\LB_12\obj\Debug\LB_12.exe
+D:\project\LB_12\LB_12\obj\Debug\LB_12.pdb
+D:\project\LB_12\LB_12\LB_12\bin\Debug\LB_12.exe.config
+D:\project\LB_12\LB_12\LB_12\bin\Debug\LB_12.exe
+D:\project\LB_12\LB_12\LB_12\bin\Debug\LB_12.pdb
+D:\project\LB_12\LB_12\LB_12\obj\Debug\LB_12.csproj.AssemblyReference.cache
+D:\project\LB_12\LB_12\LB_12\obj\Debug\LB_12.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_12\LB_12\LB_12\obj\Debug\LB_12.csproj.CoreCompileInputs.cache
+D:\project\LB_12\LB_12\LB_12\obj\Debug\LB_12.exe
+D:\project\LB_12\LB_12\LB_12\obj\Debug\LB_12.pdb

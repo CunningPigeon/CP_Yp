@@ -1,0 +1,8 @@
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\bin\Debug\LB_13_14_3.exe.config
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\bin\Debug\LB_13_14_3.exe
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\bin\Debug\LB_13_14_3.pdb
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\obj\Debug\LB_13_14_3.csproj.AssemblyReference.cache
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\obj\Debug\LB_13_14_3.csproj.SuggestedBindingRedirects.cache
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\obj\Debug\LB_13_14_3.csproj.CoreCompileInputs.cache
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\obj\Debug\LB_13_14_3.exe
+D:\project\LB_13-14\LB_13_14_3\LB_13_14_3\obj\Debug\LB_13_14_3.pdb
